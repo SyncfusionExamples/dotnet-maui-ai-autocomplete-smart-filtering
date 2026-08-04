@@ -41,4 +41,4 @@ The `FilterItemsUsingAzureAI` method uses prompt engineering to instruct the AI 
 
 Applying custom filtering to the [Autocomplete](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Inputs.SfAutocomplete.html) control by using the `AutocompleteFilterBehavior` property.
 
-![.NET MAUI AutoComplete With AI Smart filter.](ai_smart_filter_autocomplete)
+![.NET MAUI AutoComplete With AI Smart filter.](ai_smart_filter_autocomplete.gif)
